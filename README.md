@@ -1,8 +1,8 @@
 # ChristopherCosma.github.io
 #Data Scientist
 
-#Education
+###Education
 Stonehill College
 
-#Work Experience
+###Work Experience
 Springfield Public Schools
